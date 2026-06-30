@@ -21,14 +21,6 @@ The system manages street food vendors, stalls, food items, menus, customer revi
 - Trust Score Calculation
 - SQL-based Data Analysis
 
----
-
-## Technologies Used
-
-- PostgreSQL
-- SQL
-- ER Modeling
-- BCNF Normalization
 
 ---
 
@@ -64,21 +56,8 @@ SPICE-Street-Food-Platform
 
 ---
 
-## How to Run
-
-1. Create a PostgreSQL database.
-2. Execute `DDL_Script.sql`.
-3. Execute `Data_Insertion.sql`.
-4. Execute `Queries.sql`.
-
----
-
 ## Course
 
 **IT214 – Database Management System**
 
 **Dhirubhai Ambani University (Formerly DA-IICT)**
-
----
-
-This project was developed for academic purposes.
